@@ -1,7 +1,7 @@
 <template>
 	<view class="content">
 		<view class="text-area">
-			首页
+			<NavBar></NavBar>
 		</view>
 	</view>
 </template>

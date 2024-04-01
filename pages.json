@@ -22,9 +22,9 @@
 		}
 	],
 	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
+		"navigationBarTextStyle": "white", // 导航栏标题颜色及状态栏前景颜色，仅支持 black/white
+		"navigationBarTitleText": "uni-app",// 导航栏标题文字内容
+		"navigationBarBackgroundColor": "#f25037",
 		"backgroundColor": "#F8F8F8"
 	},
 	"uniIdRouter": {},
