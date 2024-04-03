@@ -7,8 +7,9 @@
 				<uni-icons class="nav-bar-search-icon" type="search"></uni-icons>
 				<view class="nav-bar-search-text">输入文章标题进行搜索</view>
 			</view>
-
 		</view>
+		<!-- 底部垫片 -->
+		<view :style="{height: 80+statusHeight+'rpx'}"></view>
 	</view>
 </template>
 
